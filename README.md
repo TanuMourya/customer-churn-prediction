@@ -136,6 +136,6 @@ Install all at once: `pip install -r requirements.txt`
 
 ## 👤 Author
 
-**[Your Name]**  
+**Tanu Mourya**  
 B.Tech AIML, NIT Kurukshetra (2nd Year)  
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://linkedin.com/in/TanuMOURYA) · [GitHub](https://github.com/TanuMourya)
